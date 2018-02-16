@@ -1,0 +1,19 @@
+.container{
+			width:80%;
+		}
+		.horwth{
+			width: 84%;
+			margin: 20px auto;
+		}
+
+		.a1{
+			background: linear-gradient(8deg, #c350d3, #e41747);
+			color: white;
+			margin-top: 1.1em;
+			text-align: justify;
+		}
+		.picz{
+			width: 300px;
+			display: block;
+			margin: 0 auto;
+		}
